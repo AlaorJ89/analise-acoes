@@ -2,7 +2,7 @@
 import requests
 import pandas as pd
 
-API_KEY = 'df18a866b3514db2bdaf46afccd6387d'
+API_KEY = 'DIGITE SEU API'
 query = 'ações bolsa de valores'
 url = f'https://newsapi.org/v2/everything?q={query}&language=pt&sortBy=publishedAt&apiKey={API_KEY}'
 
